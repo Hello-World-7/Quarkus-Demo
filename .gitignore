@@ -1,0 +1,12 @@
+**/*.iml
+**/*.idea
+**/target
+**/.project
+**/.settings
+**/.classpath
+**/node_modules/*
+**/dist/*
+**/.vscode
+/frontend/*.lock
+/frontend/ui/yarn.lock
+/frontend/ui/package-lock.json
