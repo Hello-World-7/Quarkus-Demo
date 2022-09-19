@@ -14,7 +14,7 @@ import static org.hamcrest.Matchers.hasKey;
 public class NumberResourceTest {
 
     @Test
-    public void testHelloEndpoint() {
+    public void testEndpoint() {
         given()
           .when().get("/api/numbers")
           .then()
